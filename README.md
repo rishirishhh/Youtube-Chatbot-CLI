@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a command-line interface (CLI) chatbot for YouTube that allows users to search for videos, summarize video content, and answer questions about videos using ChatGPT-3.5 Turbolibrary.
+This project is a command-line interface (CLI) chatbot for YouTube that allows users to search for videos, summarize video content, and answer questions about videos using ChatGPT-3.5 Turbo.
 
 ## Features
 
